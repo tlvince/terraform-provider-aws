@@ -6,7 +6,7 @@ require (
 	github.com/bflad/tfproviderlint v0.4.0
 	github.com/client9/misspell v0.3.4
 	github.com/golangci/go-tools v0.0.0-20190124090046-35a9f45a5db0 // indirect
-	github.com/golangci/golangci-lint v1.17.1
+	github.com/golangci/golangci-lint v1.18.0
 	github.com/golangci/gosec v0.0.0-20180901114220-8afd9cbb6cfb // indirect
 	github.com/google/gofuzz v0.0.0-20170612174753-24818f796faf // indirect
 	github.com/hashicorp/aws-sdk-go-base v0.3.0
